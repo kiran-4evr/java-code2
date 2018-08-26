@@ -22,5 +22,6 @@ public class CallingMethodsInSameClass
 		printOne();
               System.out.println("this is first brach");
               System.out.println("Hi hello");
+              System.out.println("Hi How are you");
 	}
 }
